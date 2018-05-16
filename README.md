@@ -4,5 +4,5 @@ For this project I developed a responsive website that displays images, descript
 ## What I learned
 I learned how to refine my HTML to define "box" placeholders for content on my web page. I mastered skills in CSS to position those boxes and make them look good on multiple devices.
 
-# Live link
+## Live link
 [GitHub Pages](http://mlhaus.github.io/Udacity-Portfolio)
