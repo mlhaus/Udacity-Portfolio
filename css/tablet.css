@@ -1,0 +1,21 @@
+body {
+  font-size: 1.1em;
+  line-height: 1.1em;
+}
+
+.main_photo {
+  min-height: 375px;
+}
+
+.box {
+  width: 45%;
+  margin: 1em 2.5%;
+}
+
+.description h5 {
+  font-size: 1.6em;
+}
+
+.description p {
+  font-size: 0.85em;
+}
